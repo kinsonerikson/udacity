@@ -1,0 +1,42 @@
+/* CSS Document */
+body {
+	color: #666;
+	font: 16px Verdana, sans-serif;
+}
+
+.subtitle {
+	color: #f07c17;
+	font: normal normal bold 24px/26px Verdana, sans-serif;
+}
+
+.main-header {
+	padding: 16px 0 0 0;
+}
+
+.large-header {
+	font: 48px/22px Verdana, sans-serif;
+}
+
+.container {
+	padding: 40px 15px 0 15px;
+}
+
+.main-body {
+	padding: 20px 0 0 0;
+	line-height: 32px;
+}
+
+.mug-img {
+	padding: 35px 0 0 0;
+}
+
+.list-box {
+	border: 1px solid #ccc;
+	margin: 30px 0 0 0;
+	padding:  11px 0px 30px 30px;
+}
+
+.list-box-list {
+	padding: 20px 0 0 30px;
+	line-height: 32px;
+}
